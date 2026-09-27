@@ -4,7 +4,7 @@
 
 # ⭐ Sistema de Avaliação
 
-- O programa classifica como foi o atendimendo do usuário e armazena a contagem dos votos.
+- O programa realiza uma pesquisa de satisfação com 10 clientes, coletando nome, idade e avaliação do atendimento.
 
 ## 🛠️ Tecnologias 
 <img width="48" height="48" alt="Python" src="https://github.com/user-attachments/assets/290dee08-55dc-467e-8e7a-c50aff5bb869" /> 
