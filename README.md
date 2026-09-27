@@ -4,13 +4,12 @@
 
 # ⭐ Sistema de Avaliação
 
-- O programa classifica o tipo de consumo com base no tipo do imóvel e metros cúbicos (m³)
 - O programa classifica como foi o atendimendo do usuário e armazena a contagem dos votos.
 
-## 🛠️ Tecnologias: 
-<img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/290dee08-55dc-467e-8e7a-c50aff5bb869" /> 
-<img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/6e49349f-02ce-4bb7-921b-c081ec378c88" /> 
-<img width="48" height="48" alt="Image" src="https://github.com/user-attachments/assets/3f419076-3161-42c1-80a8-55ad8c3037ac" /> 
+## 🛠️ Tecnologias 
+<img width="48" height="48" alt="Python" src="https://github.com/user-attachments/assets/290dee08-55dc-467e-8e7a-c50aff5bb869" /> 
+<img width="48" height="48" alt="Vscode" src="https://github.com/user-attachments/assets/6e49349f-02ce-4bb7-921b-c081ec378c88" /> 
+<img width="48" height="48" alt="GIT" src="https://github.com/user-attachments/assets/3f419076-3161-42c1-80a8-55ad8c3037ac" /> 
 
 ## 📋 Descrição
 
@@ -46,13 +45,13 @@ Este programa em Python ajuda você a:
     ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd sistema_consumo
+   cd sistema_avaliacao_TudoWeb
    ```
 3. Execute o programa:
    ```bash
    python app.py
    ```
-4. Digite o nome do cliente e o valor da compra quando solicitado.
+4. Digite o nome, a idade e a avaliação do atendimento quando solicitado
 
 ## 📊 Regras de Pesquisa
 
@@ -71,6 +70,16 @@ Este programa em Python ajuda você a:
 ## 💻 Terminal 
 
 <img src="/imagens/terminal.png" alt="Sistema em andamento" width="600" height="600"> 
+
+## 📚 Conceitos Aplicados
+
+- [x] Variáveis contadoras
+- [x] Laço de repetição (`for`)
+- [x] Entrada de dados (`input`)
+- [x] Conversão de tipos (`int`)
+- [x] Estruturas condicionais (`if/elif/else`)
+- [x] Operador de incremento (`+=`)
+- [x] Formatação com f-strings 
 
 ## 👤 Autor
 
